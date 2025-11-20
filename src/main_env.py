@@ -4,6 +4,7 @@
 #
 # .env
 #
+# DOTENV for secret api key <3
 # and all :3
 
 import virustotal_python
