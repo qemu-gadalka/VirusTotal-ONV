@@ -1,11 +1,12 @@
-# Make a '.env' file and set value to file:
-# API_KEY=<YOUR_API_HERE>
-# and .gitignore for .env file, heres example:
+# Create a '.env' file and put your API key inside:
+# API_KEY=<YOUR_API_KEY_HERE>
+#
+# Add '.env' to your .gitignore so it stays private:
 #
 # .env
 #
-# DOTENV for secret api key <3
-# and all :3
+# This keeps your API key secret <3
+# Love ALL <3
 
 import virustotal_python
 from pprint import pprint
