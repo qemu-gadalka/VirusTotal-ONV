@@ -1,8 +1,10 @@
+# !!! WARNING !!!
+# !!! Don't make public your file with your api, hackers can flood your API_KEY !!!
+
 import virustotal_python
 from pprint import pprint
 from base64 import urlsafe_b64encode
 import os
-from dotenv import load_dotenv
 
 API_KEY = "<YOUR API KEY HERE>"
 
